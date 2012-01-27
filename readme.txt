@@ -1,7 +1,7 @@
 === Wordpress Signaturer ===
 Contributors: Seyfer
 Donate link: http://seyferseed.div-portal.ru
-Tags: post, importer, xml, liveinternet, media, publish
+Tags: post, importer, xml, liveinternet, media, publish, import, liru
 Requires at least: 3.0.x
 Tested up to: 3.3.0
 Stable tag: 2012.01
