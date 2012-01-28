@@ -1,0 +1,73 @@
+# Copyright (C) 2012 Liveinternet Importer
+# This file is distributed under the same license as the Liveinternet Importer package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Liveinternet Importer 2012.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/liveinternet-importer\n"
+"POT-Creation-Date: 2012-01-28 03:11:04+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: liveinternet-importer.php:31
+msgid "Import LiveInternet.ru"
+msgstr ""
+
+#: liveinternet-importer.php:43
+msgid ""
+"Howdy! Upload your LiveInternet.ru XML export file and we&#8217;ll import "
+"the posts into this blog."
+msgstr ""
+
+#: liveinternet-importer.php:44
+msgid ""
+"Choose a LiveInternet.ru XML file to upload, then click Upload file and "
+"import."
+msgstr ""
+
+#: liveinternet-importer.php:98
+msgid "Post <em>%s</em> already exists."
+msgstr ""
+
+#: liveinternet-importer.php:100
+msgid "Importing post <em>%s</em>..."
+msgstr ""
+
+#: liveinternet-importer.php:106
+msgid "Couldn't get post ID"
+msgstr ""
+
+#: liveinternet-importer.php:126
+msgid "All done. <a href=\"%s\">Have fun!</a>"
+msgstr ""
+
+#: liveinternet-importer.php:157
+msgid "LiveInternet.ru"
+msgstr ""
+
+#: liveinternet-importer.php:157
+msgid "Import posts from a LiveInternet.ru XML export file."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Liveinternet Importer"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/liveinternet-importer/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Import posts and comments from Liveinternet."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Seyfer (recode from dmpink.ru)"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://seyferseed.div-portal.ru/"
+msgstr ""
