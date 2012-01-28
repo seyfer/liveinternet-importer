@@ -1,7 +1,7 @@
 === Wordpress Signaturer ===
 Contributors: Seyfer
 Donate link: http://seyferseed.div-portal.ru
-Tags: post, importer, xml, liveinternet, media, publish, import, liru
+Tags: post, importer, xml, liveinternet, media, publish
 Requires at least: 3.0.x
 Tested up to: 3.3.0
 Stable tag: 2012.01
@@ -10,9 +10,9 @@ Import posts for users from a Liveinternet blog.
 
 == Description ==
 
-* Author: [seyfer](http://seyferseed.div-portal.ru)
-* Project URI: <http://seyferseed.div-portal.ru/php/kak-ya-plagin-dlya-wordpress-3-3-delal-importer-s-liveinternet-chast-3.html/attachment/liru-importer>
-* License: GPL 2. See License below for copyright jots and tittles.
+Author: [seyfer](http://seyferseed.div-portal.ru)
+Project URI: <http://wordpress.org/extend/plugins/liveinternet-importer/>
+License: GPL 2. See License below for copyright jots and tittles.
 
 This is the Liveinternet Importer available from the WordPress Tools->Import screen. It imports posts from a Liveinternet site into a WordPress installation.
 
