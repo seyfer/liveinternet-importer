@@ -51,11 +51,11 @@ category.
 
 == Changelog ==
 
-= 2012.3 =
+= 2012.03 =
 Encoding fix
 Add coments to code
 
-= 2012.1 =
+= 2012.01 =
 Plugin release. Operate all the basic functions.
 
 == License ==
