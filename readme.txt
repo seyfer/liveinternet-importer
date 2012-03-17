@@ -46,7 +46,7 @@ category.
 
 == Screenshots ==
 
-1. The appearance of a plugin
+1. The appearance of a plugin.
 2. Adding XML file to the plug-in upload form.
 
 == Changelog ==
