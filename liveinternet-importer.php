@@ -241,7 +241,7 @@ function liru_Import() {
 }
 
 //перехватываем хуком init и вызываем свою функцию. 
-add_action( 'init', 'liru_Import' );
+//add_action( 'init', 'liru_Import' );
 
 // создаем экземпляр класса
 $liveinternetru_import = new liru_Import();
