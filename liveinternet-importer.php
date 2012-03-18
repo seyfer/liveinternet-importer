@@ -6,8 +6,8 @@ Plugin URI: http://wordpress.org/extend/plugins/liveinternet-importer/
 Description: Import posts and comments from Liveinternet.
 Author: Seyfer (recode from dmpink.ru)
 Author URI: http://seyferseed.div-portal.ru/
-Version: 2012.03
-Stable tag: 2012.03
+Version: 2012.04
+Stable tag: 2012.04
 License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 */
 

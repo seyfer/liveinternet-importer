@@ -5,7 +5,7 @@ Donate link: http://seyferseed.div-portal.ru
 Tags: post, importer, xml, liveinternet, media, publish
 Requires at least: 3.0.x
 Tested up to: 3.3.0
-Stable tag: 2012.03
+Stable tag: 2012.04
 
 Import posts for users from a Liveinternet blog.
 
@@ -46,10 +46,13 @@ category.
 
 == Screenshots ==
 
-1. The appearance of a plugin.
+1. The appearance of a plugin
 2. Adding XML file to the plug-in upload form.
 
 == Changelog ==
+
+= 2012.04 =
+call_user_func_array() FIX!
 
 = 2012.03 =
 Encoding fix
